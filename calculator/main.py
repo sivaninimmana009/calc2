@@ -25,8 +25,5 @@ class Calculator:
         self.result = value_a/value_b
         return self.result
 
-""" Intiate class  """
-
-obj = Calculator()
 
 
